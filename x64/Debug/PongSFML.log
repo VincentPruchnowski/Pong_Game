@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\padse\source\repos\PongSFML\main.cpp(97,57): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\padse\source\repos\PongSFML\main.cpp(97,41): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\padse\source\repos\PongSFML\main.cpp(100,58): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\padse\source\repos\PongSFML\main.cpp(100,42): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\padse\source\repos\PongSFML\main.cpp(164,35): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\padse\source\repos\PongSFML\main.cpp(177,36): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  PongSFML.vcxproj -> C:\Users\padse\source\repos\PongSFML\x64\Debug\PongSFML.exe
