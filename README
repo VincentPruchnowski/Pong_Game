@@ -1,0 +1,15 @@
+Description:
+Pong game model created in C++ with the SFML 2.5.1 library 
+
+Information:
+- Installation / Configuration of Visual Studio
+- Import of the SFML library
+
+Git:
+- Creating the remote repository via Visual Studio
+- Push via GitHub Desktop
+
+Difficulties encountered:
+- Collision management
+- Creation of a mini AI to manage one of the players
+- Taking into account the diameter of the ball
